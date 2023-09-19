@@ -1,6 +1,8 @@
 # Git Practice
 
-## Article: [Neuroreality] (https://futurism.com/neuroreality-the-new-reality-is-coming-and-its-a-brain-computer-interface)
+## Article
+
+[Neuroreality](https://futurism.com/neuroreality-the-new-reality-is-coming-and-its-a-brain-computer-interface)
 
 ## Why it's Interesting
 
